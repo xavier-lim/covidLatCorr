@@ -14,7 +14,7 @@ The purpose of this exploratory data analysis (EDA) is to examine the relationsh
 
 After data cleaning and feature engineering, the final compiled data set looked like:
 
-![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG =400x200)
+![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG){:height="50%" width="50%"}
 
 ## How to Run the Code
 1.	Download SAS Studio - [SAS Studio](https://www.sas.com/en_ca/software/studio.html), [SAS University Edition](https://www.sas.com/en_ca/software/university-edition.html), or [SAS OnDemand for Academics](https://welcome.oda.sas.com/)
