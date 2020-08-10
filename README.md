@@ -23,9 +23,9 @@ After data cleaning and feature engineering, the final compiled data set looked 
 4.	Run covidLatCorr.sas file on SAS Studio
 
 ## Tableau Project Dashboards
-![](https://github.com/xavier-lim/covidLatCorr/blob/master/images/cases.png)
+![Cases](https://github.com/xavier-lim/covidLatCorr/blob/master/images/cases.PNG)
 
-![](https://github.com/xavier-lim/covidLatCorr/blob/master/images/per_million.png)
+![Per Million](https://github.com/xavier-lim/covidLatCorr/blob/master/images/per_million.PNG)
 
 ## Conclusion
 In conclusion, there appears to be close to no correlation between a country’s distance from the equator and their number of COVID-19 cases and deaths. However, there is a moderate positive correlation between a country’s distance from the equator and COVID-19 deaths per million. Thus, although countries far from the equator are not necessarily more likely to contract COVID-19, it may be important to explore whether countries far from the equator are more susceptible to die from COVID-19 once they get it. However, there may be other confounding variables impacting the correlation analysis results. For example, countries far from the equator tend to have an older population distribution which may lead to a higher COVID-19 death rate. 
