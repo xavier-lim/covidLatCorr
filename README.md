@@ -9,12 +9,12 @@ The purpose of this exploratory data analysis (EDA) is to examine the relationsh
 3.	Latitude by Country Data Frame Source – latitude_data.xlsx
 
 ## Data Sources
-1.	The COVID-19 Statistics data set presents a variety of information about each country and their COVID-19 statistics. The variables of interest for this project include each country (location) and their: total cases (total_cases), total deaths (total_deaths), cases per million people (total_cases_per_million), and deaths per million people (total_deaths_per_million). This data set, consisting of 22,033 rows, was collected from: [OWID COVID-19 Data](https://github.com/owid/covid-19-data/tree/master/public/data)
-2.	The Latitude by Country data set presents 246 countries (location) and their latitude (latitude) collected from: [Dataset Publishing Language - Countries](https://developers.google.com/public-data/docs/canonical/countries_csv)
+1.	The COVID-19 Statistics data set presents a variety of information about each country and their COVID-19 statistics. The variables of interest for this project include each country (location) and their: total cases (total_cases), total deaths (total_deaths), cases per million people (total_cases_per_million), and deaths per million people (total_deaths_per_million). This data set, consisting of 22,033 rows, was collected from: [OWID: COVID-19 Data](https://github.com/owid/covid-19-data/tree/master/public/data)
+2.	The Latitude by Country data set presents 246 countries (location) and their latitude (latitude) collected from: [DSPL: Countries](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
 After data cleaning and feature engineering, the final compiled data set looked like:
 
-![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG?raw=true)
+![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG)
 
 ## How to Run the Code
 1.	Download SAS Studio - [SAS Studio](https://www.sas.com/en_ca/software/studio.html), [SAS University Edition](https://www.sas.com/en_ca/software/university-edition.html), or [SAS OnDemand for Academics](https://welcome.oda.sas.com/)
