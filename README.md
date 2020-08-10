@@ -23,11 +23,6 @@ After data cleaning and feature engineering, the final compiled data set looked 
 
 ![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG)
 
-## How to Run the Code
-1.	Download SAS Studio - [SAS Studio](https://www.sas.com/en_ca/software/studio.html), [SAS University Edition](https://www.sas.com/en_ca/software/university-edition.html), or [SAS OnDemand for Academics](https://welcome.oda.sas.com/)
-2.	Download/Clone This Repo
-3.	Upload owid-covid-data.csv and latitude_data.xlsx
-4.	Run covidLatCorr.sas file on SAS Studio
 
 ## Tableau Project Dashboards
 ![Cases](https://github.com/xavier-lim/covidLatCorr/blob/master/images/cases.PNG)
