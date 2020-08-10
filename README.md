@@ -14,6 +14,7 @@ The purpose of this exploratory data analysis (EDA) is to examine the relationsh
 
 After data cleaning and feature engineering, the final compiled data set looked like:
 
+![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG){:class="img-responsive"}
 ![Data Screenshot](https://github.com/xavier-lim/covidLatCorr/blob/master/images/data_screenshot.PNG){:height="50%" width="50%"}
 
 ## How to Run the Code
