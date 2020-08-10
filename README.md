@@ -2,12 +2,16 @@
 The purpose of this exploratory data analysis (EDA) is to examine the relationship between a country’s distance from the equator and their total number of COVID-19 cases and deaths. Earlier on in the pandemic, many hypothesized that warmer temperatures may prevent or slow down COVID-19. Thus, warmer countries may be less susceptible to the disease. However, research has shown that this notion is false. The World Health Organization (WHO) has proven you can catch COVID-19 no matter how sunny or hot the weather is. To further test this hypothesis, I will utilize a correlation analysis to test whether countries farther away from the equator (which are assumed to have lower temperatures) tend to have more COVID-19 cases and deaths than countries near the equator (assumed to have warmer temperatures).
 
 ## Table of Contents
-1.	[Project Requirements](## System Requirements)
-2.	[Data Sources](## Data Sources)
-3.	[How to Run the Code](## How to Run the Code)
+3.	[Project Tools](https://github.com/xavier-lim/covidLatCorr#project-tools)
+1.	[Data Sources](https://github.com/xavier-lim/covidLatCorr#data-sources)
+3.	[Tableau Project Dashboards](https://github.com/xavier-lim/covidLatCorr#tableau-project-dashboards)
+3.	[Conclusion](https://github.com/xavier-lim/covidLatCorr#conclusion)
+3.	[References](https://github.com/xavier-lim/covidLatCorr#references)
+3.	[Author](https://github.com/xavier-lim/covidLatCorr#author)
 
-## Project Requirements
-1.	SAS Studio 
+
+## Project Tools
+1.	SAS Studio - [Download SAS Studio](https://www.sas.com/en_ca/software/studio.html)
 2.	COVID-19 Statistics Data Frame Source – owid-covid-data.csv
 3.	Latitude by Country Data Frame Source – latitude_data.xlsx
 
