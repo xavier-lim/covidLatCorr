@@ -1,4 +1,17 @@
-/*DATA CLEANSING*/
+/*INTRODUCTION*/
+
+/*To test the hypothesis that countries further from the equator (i.e. more likely to be cold) are 
+more likely to contract COVID-19, I plan to perform a correlation analysis to analyze the relationship
+between a country’s latitude and their number of COVID-19 cases and deaths*/
+
+/*After determining each country's current total number of COVID-19 cases and deaths (as of June 5), I 
+will calculate each country's distance from the equator by taking the absolue value of their latitude. 
+Next, I will merge the data frames to show a country's COVID-19 cases and deaths next to their absolute
+latitude. I will also create macro functions to remove outliers and set which countries will be labelled 
+on graphs. Finally, I will carry out the correlation analysis.*/
+
+
+/*DATA CLEANING & FEATURE ENGINEERING*/
 
 /*COVID-19 Statistics*/
 /* Import Excel File with Each Country's Population and Number of COVID-19 Deaths and Cases per Day*/
