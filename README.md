@@ -1,6 +1,8 @@
 # CovidLatCorr
-The purpose of this exploratory data analysis (EDA) is to examine the relationship between a country’s distance from the equator and their total number of COVID-19 cases and deaths. Earlier on in the pandemic, many hypothesized that warmer temperatures may prevent or slow down COVID-19. Thus, warmer countries may be less susceptible to the disease. However, research has shown that this notion is false. The World Health Organization (WHO) has proven you can catch COVID-19 no matter how sunny or hot the weather is. To further test this hypothesis, I will utilize a correlation analysis to test whether countries farther away from the equator (which are assumed to have lower temperatures) tend to have more COVID-19 cases and deaths than countries near the equator (assumed to have warmer temperatures).
 ![COVID Header](https://github.com/xavier-lim/covidLatCorr/blob/master/images/covid_header.png)
+
+The purpose of this exploratory data analysis (EDA) is to examine the relationship between a country’s distance from the equator and their total number of COVID-19 cases and deaths. Earlier on in the pandemic, many hypothesized that warmer temperatures may prevent or slow down COVID-19. Thus, warmer countries may be less susceptible to the disease. However, research has shown that this notion is false. The World Health Organization (WHO) has proven you can catch COVID-19 no matter how sunny or hot the weather is. To further test this hypothesis, I will utilize a correlation analysis to test whether countries farther away from the equator (which are assumed to have lower temperatures) tend to have more COVID-19 cases and deaths than countries near the equator (assumed to have warmer temperatures).
+
 
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/covidLatCorr#project-tools)
