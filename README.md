@@ -45,4 +45,4 @@ In conclusion, there appears to be close to no correlation between a country’s
 
 ## Author
 
-* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/) | [Portfolio Website](https://xavier-lim.github.io/)
+* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/)  |  [Portfolio Website](https://xavier-lim.github.io/)  |  [Tableau Public](https://public.tableau.com/profile/xavier.lim#!/)
